@@ -1,4 +1,5 @@
-
+/* Hello Andy
+*/
 select *
   FROM [FireServiceManager_Live].[TPD].[Incidents]
   JOIN [FireServiceManager_Live].[TPD].[IncidentVehicles] ON Incidents.Id = IncidentVehicles.IncidentId
