@@ -1,4 +1,4 @@
-/* Hello ANdy
+/* Hello Andy
 */
 select *
   FROM [FireServiceManager_Live].[TPD].[Incidents]
